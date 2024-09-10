@@ -95,7 +95,7 @@
     "semver": "^5.4.1",
     "serve-favicon": "^2.3.0",
     "serve-index": "^1.8.0",
-    "serve-static": "^1.11.1",
+    "serve-static": "^1.16.0",
     "shelljs": "^0.7.5",
     "sorted-object": "^1.0.0",
     "stringmap": "^0.2.2"
